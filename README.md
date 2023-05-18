@@ -1,5 +1,5 @@
 # Chasing-in-a-maze
-
+https://jeffke110.github.io/Chasing-in-a-maze/
 The canvas size is 400x400. Using the tilemap shown below, where each tile is 20x20 pixels, 
 and where 'w' indicates a wall block, '+' indicates a pellet, '-' indicates blank space, 
 'M' indicates the main player character, 'p' indicates freeze-power, and 'E' indicates the enemy character.
